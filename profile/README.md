@@ -1,6 +1,6 @@
 ## About Collaboratory initiative
 Collaboratory is an initiative of the WHO Hub for pandemic and epidemic intelligence  that aims to establish a digital environment where the pandemic and epidemic intelligence community can convene to address critical challenges that affect the way data is accessed, analyzed, visualized, and communicated for better pandemic and epidemic policy and response decision making. Emphasizing a culture of collective effort, Collaboratory seeks to reconceptualize incentives for pooling resources and capacities. In doing so, it aspires to promote collaborative problem-solving, best practice formulation, and the creation of global public health tools that can significantly mitigate the impacts of pandemic and epidemic threats.
-Check out our [website]([https://collab-forum.who.int/](https://www.who.int/initiatives/collaboratory)) for more information.
+Check out our [website](https://www.who.int/initiatives/collaboratory) for more information.
 
 
 ## How to contribute
