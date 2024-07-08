@@ -10,4 +10,4 @@ We engage with a wide range of partners and practitioners at a local, national, 
 You can contribute by joining our [Collaboratory network](https://collab-forum.who.int/) powered by Discourse. Here you can post questions, participate in discussions and share ideas, tools, resources, and best practices.  
 
 ## Contact us 
-> For more information on, you can contact us at collaboratory@who.int
+> For more information you can contact us at collaboratory@who.int
