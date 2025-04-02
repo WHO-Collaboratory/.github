@@ -7,5 +7,8 @@ Check out our [website]([https://collab-forum.who.int/](https://www.who.int/init
 Collaboratory network is an interactive knowledge-sharing space where members can jointly analyse, learn from peers, tap into expert opinions, and curate resources to produce timely, effective, and actionable insights. We engage with a wide range of partners and practitioners at a local, national, regional, and global level and seek to engage with a wide range of stakeholders across sectors and geographies to leverage strengths and resources. 
 You can contribute by joining our [Collaboratory network](https://collab-forum.who.int/) powered by Discourse. Here you can post questions, participate in discussions and share ideas, tools, resources, and best practices.  
 
+## Code of Conduct
+Our [Code of Conduct](CODE_OF_CONDUCT.md) applies to all spaces managed or used by Collaboratory.
+
 ## Contact us 
 > For more information on, you can contact us at collaboratory@who.int
