@@ -7,7 +7,11 @@ Check out our [website](https://www.who.int/initiatives/collaboratory) for more 
 ## How to contribute
 Collaboratory network is an interactive knowledge-sharing space where members can jointly analyse, learn from peers, tap into expert opinions, and curate resources to produce timely, effective, and actionable insights. 
 We engage with a wide range of partners and practitioners at a local, national, regional, and global level and seek to engage with a wide range of stakeholders across sectors and geographies to leverage strengths and resources. 
-You can contribute by joining our [Collaboratory network](https://collab-forum.who.int/) powered by Discourse. Here you can post questions, participate in discussions and share ideas, tools, resources, and best practices.  
+You can contribute by joining our [Collaboratory network](https://collab-forum.who.int/) powered by Discourse. Here you can post questions, participate in discussions and share ideas, tools, resources, and best practices. 
+
+[Terms and Conditions of Use](https://collab-forum.who.int/](https://cdn.who.int/media/docs/default-source/documents/emergencies/collaboratory-terms-and-conditions-of-use.pdf?sfvrsn=872d61a8_1)) 
+[Code of Conduct](https://collab-forum.who.int/](https://cdn.who.int/media/docs/default-source/documents/emergencies/collaboratory-terms-and-conditions-of-use.pdf?sfvrsn=872d61a8_1)) 
+
 
 ## Contact us 
 > For more information you can contact us at collaboratory@who.int
