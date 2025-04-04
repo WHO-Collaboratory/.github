@@ -10,7 +10,7 @@ We engage with a wide range of partners and practitioners at a local, national, 
 You can contribute by joining our [Collaboratory network](https://collab-forum.who.int/) powered by Discourse. Here you can post questions, participate in discussions and share ideas, tools, resources, and best practices. 
 
 - [Terms and Conditions of Use](https://cdn.who.int/media/docs/default-source/documents/emergencies/collaboratory-terms-and-conditions-of-use.pdf?sfvrsn=872d61a8_1)
-- [Code of Conduct](https://cdn.who.int/media/docs/default-source/documents/emergencies/collaboratory-terms-and-conditions-of-use.pdf?sfvrsn=872d61a8_1)
+- [Code of Conduct](https://cdn.who.int/media/docs/default-source/documents/emergencies/collaboratory-code-of-conduct.pdf?sfvrsn=dad34684_1)
 
 ## Contact us 
 > For more information you can contact us at collaboratory@who.int
